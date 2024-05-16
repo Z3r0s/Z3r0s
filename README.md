@@ -18,7 +18,7 @@ I'm Z3r0s, a passionate programmer with a focus on CyberSecurity. 🛡️ I'm pr
 
 ## Certifications
 
-- 🏆 OWASP Certified
+- 🏆 GXPN Certified
 - 🏆 CISSP Certified
 - 🏆 PenTest+ Certified
 
