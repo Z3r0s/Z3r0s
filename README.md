@@ -3,7 +3,7 @@
 I'm **Z3r0s**, a passionate programmer with a focus on **CyberSecurity**. 🛡️ I'm proud to be **OWASP certified** and love to explore the intricacies of secure coding. My coding journey has led me to work with a variety of languages including **C++, Python, GoLang, and PHP**.
 
 [![GitHub followers](https://img.shields.io/github/followers/Z3r0s?label=Follow&style=social)](https://github.com/Z3r0s?tab=followers)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Z3r0s.Z3r0s)](https://github.com/Z3r0s)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Z3r0s.Z3r0s)](https://github.com/Z3r0s)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Z3r0s&show_icons=true&theme=radical)](https://github.com/Z3r0s)
 
 ## 🚀 About Me
