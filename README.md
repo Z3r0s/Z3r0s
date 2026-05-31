@@ -1,82 +1,74 @@
-# Z3r0s | CyberSecurity & Hacking
+# Z3r0s
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=FF0000&width=1000&lines=Welcome+to+my+GitHub;Hacker+Mindset+Engaged;Code+as+a+Weapon)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Privacy;Pentesting+%7C+OSINT+%7C+Tooling;Breaking+things+to+make+them+stronger" alt="Typing SVG" />
+</p>
 
----
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Skillset](#skillset)
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [GitHub Stats](#github-stats)
-- [Quote](#quote)
+<p align="center">
+  <a href="https://github.com/Z3r0s?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-FF003C?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Mindset-Offensive%20%2B%20Defensive-FF003C?style=for-the-badge" alt="Mindset" />
+</p>
 
 ---
 
 ## About Me
 
-![Coding in Progress](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=FF0000&width=1000&lines=Breaking+barriers;Securing+systems;Sharing+knowledge)
+I'm **Z3r0s**, a cybersecurity-focused developer who builds tools, studies attack paths, and works on making systems harder to break.
 
-I'm **Z3r0s**, a CyberSecurity specialist with a hacker's mindset. I focus on finding and patching vulnerabilities, turning code into an impenetrable fortress. I thrive on the challenge of safeguarding digital assets and enjoy collaborating on open-source security projects.
+My work usually sits somewhere between offensive security, defensive engineering, OSINT, automation, and infrastructure hardening. I like building practical tools that help people understand what is exposed, what is vulnerable, and what needs to be fixed.
 
-- **Current Focus:** Enhancing web app security and developing robust security tools.
-- **Continuous Learning:** Staying updated with the latest exploits and defenses.
-- **Community:** Passionate about sharing insights and learning from fellow developers.
-
----
-
-## Skillset
-
-### Programming Languages
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![GoLang](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-
-### CyberSecurity & Hacking Tools
-- **Web Security:** Following best practices and **OWASP** standards.
-- **Network Analysis:** Proficient with:
-  - ![Nmap](https://img.shields.io/badge/Nmap-0000FF?style=for-the-badge&logo=nmap&logoColor=white)
-  - ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-- **Exploitation & Defense:**
-  - [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)]()
-  - [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)]()
-  - [![PowerShell Empire](https://img.shields.io/badge/PowerShell_Empire-008080?style=for-the-badge&logo=powershell&logoColor=white)]()
+- Building security tooling, scanners, dashboards, and research platforms
+- Interested in web security, network security, OSINT, threat intelligence, and privacy
+- Focused on clean automation, real-world defensive value, and open-source projects
+- Always learning, always testing, always improving
 
 ---
 
-## Projects
+## Tech Stack
 
-<!-- Showcase your latest work -->
-- **Secure Web App:** A project designed to challenge and secure modern web applications.
-- **Vulnerability Scanner:** A tool built to detect and report potential security flaws.
-- **Open-Source Contributions:** Actively participating in projects to improve cybersecurity.
+### Languages
 
-[Explore my repositories](https://github.com/Z3r0s?tab=repositories)
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+### Security & Research
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=internetarchive&logoColor=white" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Threat%20Intel-111111?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Intelligence" />
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Network Security" />
+  <img src="https://img.shields.io/badge/Linux%20Hardening-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Hardening" />
+</p>
+
+### Tools I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+</p>
 
 ---
 
-## Certifications
+## What I Build
 
-![Certifications](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=FF0000&width=1000&lines=GXPN+Certified;OSCP+Certified;OSCE+Certified)
-
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z3r0s&show_icons=true&theme=radical)](https://github.com/Z3r0s)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Z3r0s&theme=react-dark)](https://github.com/Z3r0s)
-
----
-
-## Quote
-
-![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF0000&background=000000&width=1000&lines=Security+is+not+a+product,+but+a+process.+–+Bruce+Schneier)
-
-> **"Security is not a product, but a process."** – Bruce Schneier
-
----
-
-Feel free to explore my projects and reach out via GitHub if you'd like to collaborate. Let's pentest systems together!
+```txt
+Security tooling      -> scanners, recon utilities, automation scripts
+Threat intelligence   -> DNS, infrastructure, honeypot, and exposure research
+Web security          -> secure Flask/FastAPI apps, dashboards, and APIs
+Infrastructure        -> Linux servers, NGINX, Cloudflare, Docker, logging
+Open-source projects  -> practical tools for developers and security researchers
